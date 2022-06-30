@@ -1,0 +1,11 @@
+{
+  "name": "12--number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "number.js",
+  "scripts": {
+    "dev": "nodemon number.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

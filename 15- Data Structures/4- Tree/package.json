@@ -1,0 +1,11 @@
+{
+  "name": "4--tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tree.js",
+  "scripts": {
+    "dev": "nodemon Tree.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

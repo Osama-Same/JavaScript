@@ -1,0 +1,11 @@
+{
+  "name": "13--string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "String.js",
+  "scripts": {
+    "dev": "nodemon String.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

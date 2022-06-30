@@ -1,0 +1,11 @@
+{
+  "name": "5_-arrays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0- Methods.js",
+  "scripts": {
+    "dev0": "nodemon 0- Methods.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
