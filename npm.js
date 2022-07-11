@@ -48,6 +48,7 @@
 //heroku login
 //git init
 //heroku git:remote -a <app-name>
+//heroku git:remote -a sooq-online
 
 
 //heroku create -b https://github.com/mars/create-react-app-buildpack.git

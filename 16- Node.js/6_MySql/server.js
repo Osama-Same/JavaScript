@@ -1,8 +1,13 @@
 const express = require("express");
+const path = require("path");
 require("dotenv").config();
 const mysql = require("./Connection/Database");
 const app = express();
 app.use(express.json());
+
+app.use("/",(req,res)=>{
+  res.sendFile(__dirname + path.join("\\view\\index.html"))
+})
 
 // Get All Users
 
